@@ -1,0 +1,12 @@
+[
+    {
+        "ticker": "AAPL",
+        "note": "Monitoring for dip",
+        "added_at": "2024-01-01T10:00:00"
+    },
+    {
+        "ticker": "SNAP",
+        "note": "Wait for earnings",
+        "added_at": "2026-01-17T03:13:18.452386"
+    }
+]
