@@ -6,6 +6,13 @@
 ## 🚀 Project Overview
 A comprehensive platform to identify investment opportunities where market sentiment diverges from fundamentals. The tool calculates a "Contrarian Score" by analyzing data from Yahoo Finance, Finviz, Reddit, and StockTwits.
 
+## 🤖 Agent Protocols
+**Mandatory Instruction for AI Agent:**
+- **Auto-Push:** After completing any major task, refactor, or feature implementation, the Agent **MUST** automatically commit and push the changes to GitHub.
+- **Commit Message:** Use clear, descriptive commit messages (e.g., "Feat: Added new sentiment source", "Fix: Resolved API timeout").
+- **Command:** Use `./upload.sh "Message"` or standard git commands.
+- **Do NOT ask for permission** to push if the changes were requested by the user; just do it to keep the repo in sync.
+
 ## ✅ Completed Features
 
 ### 1. Data Pipeline
